@@ -1,5 +1,5 @@
 # About Me:
-I primarily build Android apps using Kotlin and Jetpack Compose. <br>I enjoy creating clean, responsive interfaces and organizing projects in a way that keeps them easy to maintain and scale as features grow.<br>
+I build mobile and web applications using Java, Kotlin, Android, React Native, and modern web technologies. I enjoy working on practical projects with clean interfaces, maintainable code, and well-structured application architecture.<br>
 
 
 ## Socials:
