@@ -1,5 +1,5 @@
 # About Me:
-I build mobile and web applications using Java, Kotlin, Android, React Native, and modern web technologies. I enjoy working on practical projects with clean interfaces, maintainable code, and well-structured application architecture.<br>
+I enjoy building applications and turning ideas into working products. My experience spans Android development with Kotlin and Jetpack Compose, cross-platform apps with React Native, and web development with React. I focus on clean interfaces, maintainable code, and well-structured applications.<br>
 
 
 ## Socials:
